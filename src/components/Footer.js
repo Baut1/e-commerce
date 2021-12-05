@@ -25,8 +25,8 @@ export default function Footer () {
             <div>
                 <h2>Follow Us</h2>
                 <ul>
-                    <li><a href='https://www.instagram.com/'>Instagram</a></li>
-                    <li><a href="https://www.facebook.com/">Facebook</a></li>
+                    <li><a href='https://www.instagram.com/' target="_blank" rel="noreferrer">Instagram</a></li>
+                    <li><a href="https://www.facebook.com/" target="_blank" rel="noreferrer">Facebook</a></li>
                 </ul>
             </div>
         </footer>
